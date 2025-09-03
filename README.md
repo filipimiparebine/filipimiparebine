@@ -1,5 +1,5 @@
 ## 💎 About Me:
-🚀 Co-founded a startup called [DATA SWEEP](https://datasweep.app)<br>🧠 Learning parallel computing with [Dask](https://dask.com) <br>💬 Ask me about logistics in ecommerce<br>🏃‍♂️ Fun fact: can brag about running marathons
+🚀 Co-founded a startup called [DATA SWEEP](https://datasweep.app)<br>💬 Ask me about logistics in ecommerce<br>🏃‍♂️ Fun fact: can brag about running marathons
 
 ## 🤓 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)<br/>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
