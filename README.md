@@ -1,10 +1,8 @@
-## 💎 About Me:
-🚀 Co-founded a startup called [DATA SWEEP](https://datasweep.app)<br>💬 Ask me about logistics in ecommerce<br>🏃‍♂️ Fun fact: can brag about running marathons
+### Hi 👋
 
-## 🤓 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)<br/>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
+> *I build what users see — and what they never have to.*
 
-## 👋 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipblajiu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/filipimiparebine) [![Strava](https://img.shields.io/badge/Strava-%23FC4C02.svg?logo=strava&logoColor=white)](https://www.strava.com/athletes/52209163)
+**Languages:** PHP · Python · JavaScript  
+**Expertise:** E-commerce · Logistics · Healthcare · Big Data  
+
+💬 Get in touch: [LinkedIn](https://www.linkedin.com/in/filipblajiu)
