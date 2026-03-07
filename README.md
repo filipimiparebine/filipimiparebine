@@ -1,6 +1,6 @@
 ### Hi, I'm Filip 👋
 
-> *Shipping fast and built to last.*   
+> *Shipping fast, built to last.*   
 
 **Languages:** PHP · Python · JavaScript  
 **Expertise:** E-commerce · Logistics · Healthcare · Big Data  
