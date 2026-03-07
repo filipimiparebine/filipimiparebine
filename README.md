@@ -1,4 +1,4 @@
-### Hi, I'm Filip 👋
+### Hello, I'm Filip 👋
 
 > *Shipping fast, built to last.*   
 
